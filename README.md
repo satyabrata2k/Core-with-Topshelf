@@ -1,2 +1,2 @@
-# Core-with-Topshelf
+# Dotnet-Core-with-Topshelf
 DotNet Core with Topshelf hosting
